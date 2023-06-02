@@ -1,0 +1,68 @@
+
+
+body {
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgba(228, 229, 250, 0.822);
+    
+    
+    
+}
+
+.main__container {
+    background-color: white;
+    width: 450px;
+    height: 550px;
+    border-radius: 10px;
+    overflow: hidden
+}
+
+.main__summary {
+    padding: 30px;
+}
+
+.summary__text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main__plan {   
+    width: 100%;
+    display: inline-block;
+    margin-top: 5px
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.music__icon {
+    display: inline-block;
+    width: 33%
+    
+}
+
+.plan__cost {
+    display: block;
+    display: inline-block;
+    width: 33%;
+}
+
+.annual__plan {
+    font-weight: bold;
+    width: 100px;
+    display: inline-block;
+}
+
+
+.plan__price {
+    display: inline-block;
+    width: 33%;
+}
+
+.change__plan {
+    display: inline-block;
+    width: 30%;
+   
+}
